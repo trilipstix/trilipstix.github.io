@@ -1623,11 +1623,11 @@
 	}
 
 	body {
-		/*background-color: #935d8c;
+		/*background-color: #935d8c;*/
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #F55459 15%, #FBB3B0 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #F55459 15%, #FBB3B0 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #F55459 15%, #FBB3B0 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #F55459 15%, #FBB3B0 85%);*/
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #F55459 15%, #FBB3B0 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2215,7 +2215,7 @@
 	}
 
 	label {
-		color: #000000;
+		color: #ffffff;
 	}
 
 	input[type="text"],
