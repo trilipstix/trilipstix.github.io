@@ -3361,6 +3361,10 @@
 
 		}
 
+		#artists ul li {
+			display: inline-block;
+		}
+
 /* Main */
 
 	#main {
