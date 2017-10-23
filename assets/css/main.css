@@ -3815,7 +3815,7 @@
 
 
 	div.scrollmenu {
-			width: auto;
+			width: inherit;
 	    overflow: auto;
 	    white-space: nowrap;
 	}
