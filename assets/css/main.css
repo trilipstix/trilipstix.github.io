@@ -3815,16 +3815,14 @@
 
 
 	div.scrollmenu {
-			width: 980px;
+			width: 900px;
 	    overflow: scroll;
 	    white-space: nowrap;
 	}
 
 	@media (max-width: 480px) {
 		div.scrollmenu {
-				width: 400px;
-		    overflow: scroll;
-		    white-space: nowrap;
+				width: 300px;
 		}
 	}
 
