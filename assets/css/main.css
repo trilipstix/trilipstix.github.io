@@ -3823,6 +3823,7 @@
 	@media screen and (max-width: 360px) {
 		div.scrollmenu {
 				width: 300px;
+				overflow: scroll;
 		}
 	}
 
