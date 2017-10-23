@@ -3816,7 +3816,6 @@
 
 	div.scrollmenu {
 			width: 900px;
-			overflow: -moz-scrollbars-horizontal;
 	    overflow: scroll;
 	    white-space: nowrap;
 	}
@@ -3838,3 +3837,5 @@
 	div.scrollmenu a:hover {
 	    background-color: #777;
 	}
+
+	html {overflow-x: scroll;}
