@@ -3820,7 +3820,7 @@
 	    white-space: nowrap;
 	}
 
-	@media screen and (max-width: 3600px) {
+	@media screen and (max-width: 360px) {
 		div.scrollmenu {
 				width: 300px;
 		}
