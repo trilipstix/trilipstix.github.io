@@ -3815,7 +3815,7 @@
 
 
 		div.scrollmenu {
-		    background-color: #333;
+				width: 300px;
 		    overflow: auto;
 		    white-space: nowrap;
 		}
