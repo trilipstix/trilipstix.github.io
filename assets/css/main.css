@@ -3845,6 +3845,10 @@
 		overflow-x: scroll;
 	}
 
+	div.artist_profile {
+		width: 80%;
+	}
+
 	div.imgtable {
 		height: 200px; 
 		width: 300px; 
@@ -3865,4 +3869,9 @@
 		height: 100px;
 		float: left;
 		padding: 1px;
+	}
+
+	#slider {
+		width: 90%;
+		transform: translate3d(0, 0, 0);
 	}
