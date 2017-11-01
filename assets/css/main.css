@@ -3851,12 +3851,7 @@
 		overflow: auto;
 		position: relative;
 		left: 20px;
-	}
-
-	@media screen and (max-width: 480px) {
-		div.imgtable {
-				width: 150px;
-		}
+		vertical-align: middle;
 	}
 
 	img.intable {
