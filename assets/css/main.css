@@ -3881,7 +3881,7 @@
 		float: left;
 	}
 
-	button.button-go {
+	.button-go {
 		float: left;
 		width: 10px;
 	}
