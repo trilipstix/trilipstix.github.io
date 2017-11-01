@@ -23,7 +23,7 @@
 							width: '500px',
 							height: '300px',
 							animationAxis: 'x', // 'x'|'y'
-							animationDuration: 1000, // number|0
+							animationDuration: 500, // number|0
 							animationEasing: 'swing', // 'swing'|'linear'|more if you use jQuery UI
 							loop: true, // true|false
 							display: 1, // number of slides displayed at once

@@ -3848,6 +3848,8 @@
 	div.artist_profile {
 		float: left;
 		margin: auto;
+
+		padding: 20px;
 	}
 
 	div.imgtable {
