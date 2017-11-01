@@ -3853,6 +3853,13 @@
 		left: 100px;
 	}
 
+	@media screen and (max-width: 480px) {
+		div.imgtable {
+			position: relative;
+			left: 0px;
+		}
+	}
+
 	img.intable {
 		width: 100px;
 		height: 100px;
