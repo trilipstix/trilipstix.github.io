@@ -3880,3 +3880,8 @@
 	div.slider {
 		float: left;
 	}
+
+	button.button-go {
+		float: left;
+		width: 10px;
+	}
