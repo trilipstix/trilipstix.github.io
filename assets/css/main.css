@@ -3849,7 +3849,7 @@
 		height: 300px; 
 		width: 400px; 
 		overflow: auto;
-		margin: 10px;
+		margin: 60px;
 	}
 
 	@media screen and (max-width: 480px) {
