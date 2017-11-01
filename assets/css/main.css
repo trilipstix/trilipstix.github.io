@@ -3851,7 +3851,7 @@
 		overflow: auto;
 		position: relative;
 		left: 20px;
-		vertical-align: middle;
+		margin: auto;
 	}
 
 	img.intable {
