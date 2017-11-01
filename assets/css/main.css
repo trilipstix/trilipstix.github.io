@@ -3847,7 +3847,7 @@
 
 	div.imgtable {
 		height: 300px; 
-		width: 400px; 
+		width: 300px; 
 		overflow: auto;
 		margin: 60px;
 	}
