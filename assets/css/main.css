@@ -3847,7 +3847,7 @@
 
 	div.imgtable {
 		height: 300px; 
-		width: 600px; 
+		width: 400px; 
 		overflow: auto;
 		margin: 10px;
 	}
@@ -3859,8 +3859,8 @@
 	}
 
 	img.intable {
-		width: 150px;
-		height: 150px;
+		width: 100px;
+		height: 100px;
 		float: left;
 		padding: 1px;
 	}
