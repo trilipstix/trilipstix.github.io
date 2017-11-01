@@ -3878,7 +3878,5 @@
 	}
 
 	.button-go {
-		width: 30px;
-		border: none !important;
-		outline: none !important;
+		width: 40px;
 	}
