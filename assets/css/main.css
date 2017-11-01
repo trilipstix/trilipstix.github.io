@@ -3813,34 +3813,6 @@
 
 		}
 
-
-	div.scrollmenu {
-			width: 900px;
-	    overflow: scroll;
-	    white-space: nowrap;
-	}
-
-	@media screen and (max-width: 480px) {
-		div.scrollmenu {
-				width: 300px;
-				overflow: scroll;
-		}
-	}
-
-	div.scrollmenu a {
-	    display: inline-block;
-	    color: white;
-	    text-align: center;
-	    padding: 14px;
-	    text-decoration: none;
-	}
-
-	div.scrollmenu a:hover {
-	    background-color: #777;
-	}
-
-
-
 	html {
 		overflow-x: scroll;
 	}
@@ -3866,6 +3838,12 @@
 		div.imgtable {
 			position: relative;
 			left: 0px;
+		}
+	}
+
+	@media screen and (max-width: 480px) {
+		.slider {
+			width: 300px;
 		}
 	}
 
