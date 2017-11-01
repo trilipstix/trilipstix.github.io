@@ -3872,3 +3872,11 @@
 		float: left;
 		padding: 1px;
 	}
+
+	#cont {
+		margin: auto;
+	}
+
+	div.slider {
+		float: left;
+	}
