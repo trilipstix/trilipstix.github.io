@@ -3847,7 +3847,6 @@
 
 	div.artist_profile {
 		float: left;
-		width: 70%;
 		margin: auto;
 	}
 
@@ -3874,5 +3873,5 @@
 	}
 
 	#slider {
-		width: 100%;
+		margin:auto;
 	}
