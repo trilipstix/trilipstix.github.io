@@ -102,11 +102,6 @@
 						this.dimensions.w = width;
 						this.dimensions.h = height;
 
-						if ($( window ).width() == "480px") {
-							this.dimensions.w = "300px";
-							this.dimensions.h = "540px";
-						}
-
 						// apply them to the container and slides
 						this.slider.css({
 							width: this.dimensions.w,
