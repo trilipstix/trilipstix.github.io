@@ -3879,6 +3879,6 @@
 
 	.button-go {
 		width: 30px;
-		border: none;
-		outline: none;
+		border: none !important;
+		outline: none !important;
 	}
