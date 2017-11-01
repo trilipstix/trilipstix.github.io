@@ -3839,6 +3839,27 @@
 	    background-color: #777;
 	}
 
+
+
 	html {
 		overflow-x: scroll;
+	}
+
+	div.imgtable {
+		height: 600px; 
+		width: 300px; 
+		overflow: auto;
+	}
+
+	@media screen and (max-width: 480px) {
+		div.imgtable {
+				width: 150px;
+		}
+	}
+
+	img.intable {
+		width: 150px;
+		height: 150px;
+		float: left;
+		margin: 1px;
 	}
