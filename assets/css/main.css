@@ -3884,4 +3884,6 @@
 	.button-go {
 		float: left;
 		width: 30px;
+		border: none;
+		padding: auto;
 	}
