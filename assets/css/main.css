@@ -3848,7 +3848,7 @@
 	div.artist_profile {
 		width: 80%;
 
-		clear: both;
+		float: left;
 	}
 
 	div.imgtable {
