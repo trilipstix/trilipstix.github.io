@@ -3837,13 +3837,8 @@
 	@media screen and (max-width: 480px) {
 		div.imgtable {
 			position: relative;
-			left: 0px;
-		}
-	}
-
-	@media screen and (max-width: 480px) {
-		.slider {
-			width: 400px;
+			left: -300px;
+			bottom: -300px;
 		}
 	}
 
