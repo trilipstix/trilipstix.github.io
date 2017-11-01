@@ -3876,3 +3876,8 @@
 	div.slider {
 		margin: auto;
 	}
+
+	#go-left {
+		width: 30px;
+		height: 30px;
+	}
