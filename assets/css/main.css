@@ -3876,3 +3876,10 @@
 	#slider {
 		transform: translate3d(0, 0, 0);
 	}
+
+	#content_container {
+		width: 90%;
+
+		height: 300px;
+		overflow: hidden;
+	}
