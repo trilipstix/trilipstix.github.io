@@ -3856,7 +3856,7 @@
 		overflow: auto;
 		position: relative;
 		left: 70px;
-		vertical-align: middle;
+		top: 40px;
 	}
 
 	@media screen and (max-width: 480px) {
