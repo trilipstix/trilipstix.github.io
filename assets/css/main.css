@@ -3877,5 +3877,12 @@
 		margin: auto;
 	}
 
-	.button-go {
+	#go-left {
+		float: left;
+	}
+
+	#go-right {
+		position: relative;
+		left: 40px;
+		float: left;
 	}
