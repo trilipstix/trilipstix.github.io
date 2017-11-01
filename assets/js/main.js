@@ -135,7 +135,7 @@
 			});
 
 			$(".slider").diyslider({
-			    width: "1000px", // width of the slider
+			    width: "900px", // width of the slider
 			    height: "280px", // height of the slider
 			    display: 1, // number of slides you want it to display at once
 			    loop: false // disable looping on slides
