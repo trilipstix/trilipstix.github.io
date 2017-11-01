@@ -3849,7 +3849,8 @@
 		height: 200px; 
 		width: 300px; 
 		overflow: auto;
-		margin-left: 100px;
+		position: relative;
+		left: 20px;
 	}
 
 	@media screen and (max-width: 480px) {
