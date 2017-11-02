@@ -143,12 +143,10 @@
 
 			// use buttons to change slide
 			$("#go-left").bind("click", function(){
-				console.log("click");
 			    // Go to the previous slide
 			    $(".slider").diyslider("move", "back");
 			});
 			$("#go-right").bind("click", function(){
-				console.log("click");
 			    // Go to the previous slide
 			    $(".slider").diyslider("move", "forth");
 			});
