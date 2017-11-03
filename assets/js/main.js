@@ -154,7 +154,6 @@
 
 			var cards = $(".artist_profile");
 			for(var i = 0; i < cards.length; i++){
-				console.log("shuffle")
 			    var target = Math.floor(Math.random() * cards.length -1) + 1;
 			    var target2 = Math.floor(Math.random() * cards.length -1) +1;
 			    cards.eq(target).before(cards.eq(target2));
