@@ -3825,6 +3825,14 @@
 		padding-right: 20px;
 	}
 
+	@media screen and (max-width: 480px) {
+
+		.artist_profile {
+			height: 600px;
+		}
+	}
+
+
 	div.imgtable {
 		height: 200px; 
 		width: 300px; 
@@ -3871,7 +3879,6 @@
 
 
 		.imgtable {
-			left: 0px !important;
 			top: 340px !important;
 		}
 
