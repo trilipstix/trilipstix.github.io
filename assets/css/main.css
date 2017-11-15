@@ -3883,8 +3883,7 @@
 
 
 		.imgtable {
-			top: 340px !important;
-			left: -300px !important;
+			clear: both;
 		}
 
 	}
