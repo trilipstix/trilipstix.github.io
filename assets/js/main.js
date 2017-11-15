@@ -134,6 +134,8 @@
 				speed: 1000
 			});
 
+			//slider
+
 			$(".slider").diyslider({
 			    width: "670px", // width of the slider
 			    height: "280px", // height of the slider
@@ -151,6 +153,7 @@
 			    $(".slider").diyslider("move", "forth");
 			});
 
+			// shuffle artists
 
 			var cards = $(".artist_profile");
 			for(var i = 0; i < cards.length; i++){

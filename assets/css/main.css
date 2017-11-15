@@ -3872,7 +3872,7 @@
 
 		.imgtable {
 			clear: both;
-			left: -15px !important;
+			left: -10px !important;
 			top: 20px !important;
 		}
 
@@ -3883,6 +3883,10 @@
 		.slider {
 			width: 300px !important;
 			height: 500px !important;
+		}
+
+		#cont {
+			left: -10px !important;
 		}
 
 	}
