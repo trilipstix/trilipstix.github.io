@@ -3869,4 +3869,13 @@
 			width: 270px;
 		}
 
+
+		.imgtable {
+			height: 200px; 
+			width: 300px; 
+			overflow: auto;
+			position: relative;
+			top: 340px;
+		}
+
 	}
