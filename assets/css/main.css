@@ -3877,6 +3877,7 @@
 		}
 
 		.artist_profile {
+			position: relative;
 			height: 520px !important;
 			left: -15px !important;
 		}
