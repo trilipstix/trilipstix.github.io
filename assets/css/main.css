@@ -3825,18 +3825,6 @@
 		padding-right: 20px;
 	}
 
-	@media screen and (max-width: 480px) {
-
-		.artist_profile {
-			height: 600px !important;
-		}
-
-		.slider {
-			height: 600px !important;
-		}
-	}
-
-
 	div.imgtable {
 		height: 200px; 
 		width: 300px; 
@@ -3884,8 +3872,12 @@
 
 		.imgtable {
 			clear: both;
-			left: 0px !important;
-			top: 0px !important;
+			left: -10px !important;
+			top: 20px !important;
+		}
+
+		.slider {
+			height: 450px !important;
 		}
 
 	}
