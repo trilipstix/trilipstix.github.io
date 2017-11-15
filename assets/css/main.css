@@ -3872,14 +3872,14 @@
 
 		.imgtable {
 			clear: both;
-			left: -10px !important;
+			left: -15px !important;
 			top: 20px !important;
 		}
 
 		.artist_profile {
 			position: relative;
 			height: 520px !important;
-			left: -10px !important;
+			left: -5px !important;
 		}
 
 		.slider {
