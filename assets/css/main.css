@@ -3884,6 +3884,8 @@
 
 		.imgtable {
 			clear: both;
+			left: 0px !important;
+			top: 0px !important;
 		}
 
 	}
