@@ -3854,3 +3854,10 @@
 		left: 40px;
 		float: left;
 	}
+
+
+	.artist_descr {
+		width: 300px; 
+		clear: both; 
+		margin: auto; 
+	}
